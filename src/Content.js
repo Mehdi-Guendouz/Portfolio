@@ -23,7 +23,7 @@ import avatar3 from "./assets/images/Testimonials/avatar3.png";
 import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
-import Hireme_person2 from "./assets/images/Hireme/person2.png";
+import Hireme_person2 from "./assets/images/Hireme/person.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
